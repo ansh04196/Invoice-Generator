@@ -1,6 +1,6 @@
 # Bulk Edit for Redux Invoice Management System
 
-This feature will allow users to edit multiple invoices on a single screen, similar to an Excel spreadsheet. Checkout the working demo here <https://invoice-management-xi.vercel.app/>
+This feature will allow users to edit multiple invoices on a single screen, similar to an Excel spreadsheet. Checkout the working demo here <https://invoice-generator-ansh.vercel.app/>
 
 ### Scenarios to test for the feature
 
